@@ -1,4 +1,5 @@
----title: "Supervision & Assessment"
+---
+title: "Supervision & Assessment"
 subtitle: "Postdoctoral, doctoral, Master’s and undergraduate supervision"
 description: "Student supervision, Master’s theses, doctoral activities and academic assessment by Jean-Sébastien Vayre."
 ---

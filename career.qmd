@@ -1,4 +1,5 @@
----title: "Academic Career"
+---
+title: "Academic Career"
 subtitle: "Positions, education and skills"
 description: "Academic career, positions, education, skills and affiliations of Jean-Sébastien Vayre."
 ---

@@ -1,4 +1,5 @@
----title: "Projects & Academic Service"
+---
+title: "Projects & Academic Service"
 subtitle: "Scientific responsibilities, event organization and research collaborations"
 description: "Research projects, scientific responsibilities, academic service, collaborations and event organization by Jean-Sébastien Vayre."
 ---

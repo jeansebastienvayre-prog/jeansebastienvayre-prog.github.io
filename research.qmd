@@ -1,4 +1,5 @@
----title: "Research"
+---
+title: "Research"
 subtitle: "Research programme and themes"
 description: "Research profile of Jean-Sébastien Vayre: artificial intelligence, digital technologies, information search, learning, epistemic vigilance, cognition and computational social science."
 ---

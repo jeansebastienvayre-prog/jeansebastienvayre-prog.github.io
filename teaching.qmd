@@ -1,4 +1,5 @@
----title: "Teaching Record"
+---
+title: "Teaching Record"
 subtitle: "Administrative responsibilities, course leadership and complete teaching load"
 description: "Complete teaching record of Jean-Sébastien Vayre at Université Côte d’Azur and previous institutions."
 ---

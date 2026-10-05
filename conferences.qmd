@@ -1,4 +1,5 @@
----title: "Conferences & Talks"
+---
+title: "Conferences & Talks"
 subtitle: "Published proceedings, academic communications and public-science talks"
 description: "Conference papers, invited talks and public-science communications by Jean-Sébastien Vayre."
 ---

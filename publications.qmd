@@ -1,4 +1,5 @@
----title: "Publications"
+---
+title: "Publications"
 subtitle: "Complete publication and research-output record from the October 2026 CV"
 description: "Complete academic publications of Jean-Sébastien Vayre, including peer-reviewed articles, books, chapters, preprints, reports and reviews."
 ---

@@ -1,4 +1,5 @@
----title: "Open Science & Academic Reviewing"
+---
+title: "Open Science & Academic Reviewing"
 subtitle: "Open research, scientific communication and peer review"
 description: "Open science, reproducibility, scientific videos, peer review and research dissemination by Jean-Sébastien Vayre."
 ---
