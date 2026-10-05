@@ -1,0 +1,45 @@
+---
+title: "Jean-Sébastien Vayre"
+subtitle: "Sociology · Digital Technologies · Artificial Intelligence · Cognition"
+toc: false
+---
+
+<div class="hero-role">**Associate Professor of Sociology** · Université Côte d’Azur · GREDEG (UMR 7321 CNRS) · INNOS · Nice, France</div>
+
+I am a sociologist of digital technologies and artificial intelligence working at the intersection of **social sciences and cognitive sciences**. My research focuses on information search, learning, metacognition, epistemic vigilance, computational modelling and multi-agent systems, as well as organizational transformations associated with digital technologies.
+
+<div class="quick-grid">
+<div class="quick-card"><strong>Digital Technologies & AI</strong>Sociology of artificial intelligence, algorithms, big data and digitally mediated organizations.</div>
+<div class="quick-card"><strong>Information Search & Learning</strong>How people search, learn, update knowledge and calibrate what they know.</div>
+<div class="quick-card"><strong>Epistemic Vigilance</strong>Source evaluation, expertise recognition, epistemic trust, credit and injustice.</div>
+<div class="quick-card"><strong>Computational Social Science</strong>Agent-based modelling of socially embedded learning and cumulative epistemic dynamics.</div>
+</div>
+
+## Current research
+
+The main current programme is **MOVICI**, which combines a theoretical architecture (**CAVL — Cognitive Architecture for Vigilant Learning**), empirical studies of open-Web information search and cooperative/competitive debate, and agent-based modelling.
+
+<div class="home-links">
+<a class="resource-link" href="https://jeansebastienvayre-prog.github.io/movici/">MOVICI website ↗</a>
+<a class="resource-link" href="https://www.youtube.com/playlist?list=PLJJXA5R7uEsg">MOVICI video series ↗</a>
+<a class="resource-link" href="publications.qmd">Complete publications</a>
+<a class="resource-link" href="conferences.qmd">Complete conference record</a>
+</div>
+
+## Complete academic record
+
+This website is deliberately simple in design, but **not selective in content**. The detailed pages reproduce the full academic record contained in the October 2026 CV: publications, manuscripts, reports, conference communications, public-science talks, scientific responsibilities, event organization, collaborations, teaching, supervision, peer review, skills and academic positions.
+
+Publication titles, conference titles, official course titles and student dissertation titles are retained in their original language when that is the official title. Navigation and explanatory text are in English.
+
+## Profiles & contact
+
+<div class="profile-links">
+<a class="resource-link" href="https://univ-cotedazur.fr/jean-sebastien-vayre">Université Côte d’Azur profile ↗</a>
+<a class="resource-link" href="https://www.researchgate.net/profile/Jean-Sebastien-Vayre">ResearchGate ↗</a>
+<a class="resource-link" href="https://fr.linkedin.com/in/jean-sebastien-vayre-30b54514a">LinkedIn ↗</a>
+<a class="resource-link" href="https://gredeg.univ-cotedazur.fr/projets-de-recherche/francais-pole-innovation-science-and-technology-pist/team-innos">GREDEG · INNOS ↗</a>
+<a class="resource-link" href="assets/documents/CV_Jean-Sebastien_Vayre_2026_actualise_octobre.docx">Source academic CV (October 2026)</a>
+</div>
+
+**Email:** [Jean-Sebastien.VAYRE@univ-cotedazur.fr](mailto:Jean-Sebastien.VAYRE@univ-cotedazur.fr)

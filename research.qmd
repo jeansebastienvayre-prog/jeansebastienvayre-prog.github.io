@@ -1,0 +1,38 @@
+---
+title: "Research"
+subtitle: "Research programme and themes"
+---
+
+My work connects sociology, cognitive science and computational approaches to investigate how knowledge is produced, evaluated, communicated and used in technologically mediated environments.
+
+## Social sciences and cognitive sciences
+
+I develop research at the interface of social and cognitive sciences, with a particular interest in the micro-foundations of social and organizational processes. This includes reasoning, information search, learning, metacognition and epistemic evaluation.
+
+## Digital technologies, artificial intelligence and big data
+
+My research examines artificial intelligence, algorithms, recommendation systems, big data and digital technologies as scientific, technical, organizational and social phenomena. Earlier work focused especially on digital markets, recommendation technologies, organizational digitalization and AI in professional settings.
+
+## Information search, learning and epistemic vigilance
+
+A central current question is how people decide what deserves attention, trust, verification and integration into knowledge. I study how prior knowledge, information-search behaviour, social context and metacognitive judgments shape learning from documents and from other people.
+
+## Computational modelling, multi-agent systems and epistemic injustice
+
+I use agent-based modelling to examine how local cognitive and interactional mechanisms generate longer-term social and epistemic patterns. Current models investigate socially embedded learning, epistemic-credit allocation and cumulative inequalities.
+
+## MOVICI and CAVL
+
+**MOVICI — Modelling Epistemic Vigilance and its Institutions** is the main current research programme. It combines empirical experiments, theoretical integration and computational modelling.
+
+<a class="resource-link" href="https://jeansebastienvayre-prog.github.io/movici/">Open MOVICI ↗</a>
+<a class="resource-link" href="https://ds4h.univ-cotedazur.eu/research-and-labs/funded-projects-and-calls/project-movici">UCA / DS4H project page ↗</a>
+<a class="resource-link" href="https://mshs.univ-cotedazur.fr/plateforme-cocolab/movici-modelisation-de-la-vigilance-epistemique-et-de-ses-institutions-dans-la-communication-des-informations-partagees-sur-internet">MSHS / COCOLAB project page ↗</a>
+
+The programme currently includes five connected papers:
+
+1. [CAVL: A Cognitive Architecture for Vigilant Learning](https://jeansebastienvayre-prog.github.io/movici/working-papers/wp01-cavl/)
+2. [Prior Knowledge and Learning from Open Web Search](https://jeansebastienvayre-prog.github.io/movici/working-papers/wp02-information-search/)
+3. [Epistemic Credit in Cooperative and Competitive Debate](https://jeansebastienvayre-prog.github.io/movici/working-papers/wp03-debate/)
+4. [Learning from Documents and from Others: Knowledge Change and Epistemic Coordination](https://jeansebastienvayre-prog.github.io/movici/working-papers/wp04-search-debate/)
+5. [Epistemic Credit Misallocation in Socially Embedded Learning](https://jeansebastienvayre-prog.github.io/movici/working-papers/wp05-agent-based-model/)

@@ -1,0 +1,150 @@
+---
+title: "Publications"
+subtitle: "Complete publication and research-output record from the October 2026 CV"
+---
+
+<div class="note-original">Publication and book titles are retained in their original published language. Access buttons point only to identified public resources: full text, DOI, publisher, repository, or a clearly labelled related record. No generic search buttons are used.</div>
+
+## Doctoral dissertation
+<div class="record"><div class="record-text">VAYRE, J.-S. (2016), Des machines à produire des futurs économiques : sociologie des intelligences artificielles marchandes à l’ère du big data, Thèse de Doctorat en Sociologie, Université Toulouse Jean Jaurès (Dir. : Franck Cochoy).</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/316608828_Jean-Sebastien_Vayre_Des_machines_a_produire_des_futurs_economiques_sociologie_des_intelligences_artificielles_marchandes_a_l%27ere_du_big_data" target="_blank" rel="noopener">Research record ↗</a></div>
+
+## Books, edited volumes and special issues
+<div class="record"><div class="record-text">CHEVALIER, O., VAYRE, J.-S. (dir.) (2025), AIntelligences. Vers une redéfinition de l’intelligence ?, Socio-anthropologie, n° 52, Éditions de la Sorbonne, 254 p. (parution papier : février 2026).</div><a class="resource-link record-access" href="https://www.editionsdelasorbonne.fr/produit/1176/9791035110864/aintelligences" target="_blank" rel="noopener">Publisher ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (dir.) (2025), Intelligence artificielle et sciences humaines et sociales : regards pluriels, Paris, L’Harmattan, 202 p. ISBN : 978-2-336-50029-4.</div><a class="resource-link record-access" href="https://www.editions-harmattan.fr/catalogue/livre/intelligence-artificielle-et-sciences-humaines-et-sociales/78929" target="_blank" rel="noopener">Publisher ↗</a></div>
+
+<div class="record"><div class="record-text">BREMBECK, H., SORUM, N., LALANNE, M., VAYRE, J.-S. (2015). Life Phases, Mobility and Consumption. An Ethnography of Shopping Routes. Ashgate: Burlington.</div><a class="resource-link record-access" href="https://doi.org/10.4324/9781315592367" target="_blank" rel="noopener">DOI ↗</a></div>
+
+## Peer-reviewed journal articles
+<div class="record"><div class="record-text">CHEVALIER, O., VAYRE, J.-S. (2025), « Perspectives sur les effets de l’intelligence algorithmique », Socio-anthropologie, 52, pp. 9-14. DOI : 10.4000/15qd8 (mise en ligne / parution papier : 2026).</div><a class="resource-link record-access" href="https://journals.openedition.org/socio-anthropologie/20690" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">DOSSO, C., MORISSEAU, T., HEINTZ, C., VAYRE, J.-S. (2025), « A cognitive resource-rational account of epistemic injustice », The Philosophical Quarterly, 75(4), pp. 1272-1293. DOI : 10.1093/pq/pqaf088.</div><a class="resource-link record-access" href="https://doi.org/10.1093/pq/pqaf088" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">ARENA, L., GAGLIO, G., VAYRE, J.-S. (2024), « Imbrication et « professionnalisation » des promesses sociotechniques : le cas de l’IA en radiologie », Réseaux.</div><a class="resource-link record-access" href="https://doi.org/10.3917/res.248.0033" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., DE LA TORRE, C. (2024), « L’agencement organisationnelle des innovations numériques gestionnaires (ING) : entre logique d’enquête, logique de coopétition et logique autoritaire », Communication.</div><a class="resource-link record-access" href="https://doi.org/10.4000/127l5" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., TORNATORA, S., DUFRESNE, A. (2022), « Les émotions et l’adoption des comportements sanitaires responsables : les rôles médiateurs de la recherche d’information et de la compréhension », Revue des Interactions Humaines Médiatisées, 22 (1), pp. 1-42.</div><a class="resource-link record-access" href="https://www.europia.org/RIHM/V22N1/1-RIHM22%281%29-Vayre.pdf" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2022), « Retour sur la question du naturalisme en sciences sociales : le naturalisme des fondateurs de l’interactionnisme américain (NFIA) est-il vraiment incompatible avec le naturalisme social francophone contemporain (NSFC) ?, SociologieS, Débats.</div><a class="resource-link record-access" href="https://doi.org/10.4000/sociologies.19143" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., ZELESNIACK, E. (2021), « La modernisation technologique des entreprises françaises : une pertinence stable et limitée », Interrogations, (33).</div><a class="resource-link record-access" href="https://www.revue-interrogations.org/La-modernisation-technologique-des" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., GAGLIO, G. (2021), « L’intelligence artificielle n’existe-t-elle vraiment pas ? Quelques éléments de clarification autour d’une science controversée », Diogène, 1-2 (269-270), pp. 107-120.</div><a class="resource-link record-access" href="https://doi.org/10.3917/dio.269.0107" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2021), « Intelligence artificielle : entre science et marché. Quelques éléments sociohistoriques pour mieux comprendre une étrange expérimentation scientifique », Gérer & Comprendre, 3 (145), pp. 55-69.</div><a class="resource-link record-access" href="https://doi.org/10.3917/geco1.145.0055" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., IGELSBOECK, J. (2021), « La technologie au service de la démocratie au travail ? Le cas des whiteboards », La nouvelle revue du travail, (18).</div><a class="resource-link record-access" href="https://doi.org/10.4000/nrt.8773" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2020), « Pour un pluralisme épistémologique en sociologie de l’action organisée : retour critique sur l’œuvre de Michel Crozier », Revue européenne des sciences sociales, 58 (2), p. 159-187.</div><a class="resource-link record-access" href="https://doi.org/10.4000/ress.6838" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., COCHOY, F. (2019), « L’intelligence artificielle des marchés : comment les systèmes de recommandation modélisent et mobilisent les consommateurs », Les Études Sociales, 1 (69), p. 177-201.</div><a class="resource-link record-access" href="https://doi.org/10.3917/etsoc.169.0177" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., LENOIR, N. (2019), « Vers la fin des inégalités face à la formation ? Enquête sur les usages du MOOC « Manage your prices » », Distances et Médiation des Savoirs, 25.</div><a class="resource-link record-access" href="https://journals.openedition.org/dms/3361" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2019), « L’intelligence des machines et l’esprit du capitalisme : une histoire de congruence ? », Communication, 36 (1).</div><a class="resource-link record-access" href="https://doi.org/10.4000/communication.9726" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « Comment décrire les technologies d’apprentissage artificielle : le cas des machines à prédire », Réseaux, 5 (211), p. 69-104.</div><a class="resource-link record-access" href="https://doi.org/10.3917/res.211.0069" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « Les machines à produire des futurs économiques : entre prédiction et prévision », Revue Française de Socio-Economie, 2 (21), pp. 105-127.</div><a class="resource-link record-access" href="https://doi.org/10.3917/rfse.021.0105" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « Les machines apprenantes et la (re)production de la société : les enjeux communicationnels de la socialisation algorithmique », Les Enjeux de l’information et de la communication, 19 (2), pp. 94-111.</div><a class="resource-link record-access" href="https://doi.org/10.3917/enic.025.0093" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « Une histoire de machines à recommander des biens de consommation : de l’Internet documentaire à l’Internet des données », Etudes de communication, (49), pp. 89-106.</div><a class="resource-link record-access" href="https://doi.org/10.4000/edc.7178" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « Comment peut-on comprendre la demande de sociologie ? Pour un accompagnement du mouvement big data », Idées économiques et sociales, (191), pp. 44-50.</div><a class="resource-link record-access" href="https://doi.org/10.3917/idee.191.0044" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « Machines intelligentes et économie numérique : étude du cas d’un agent artificiel dans le domaine du travail relationnel marchand », Les Cahiers du Numérique, 14 (1), pp. 83-109.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/323642592_Machines_intelligentes_et_economie_numerique_Etude_du_cas_d%27un_agent_artificiel_dans_le_domaine_du_travail_relationnel_marchand" target="_blank" rel="noopener">Research record ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., LARNAUDIE, L., DUFRESNE, A. (2017), « La motivation à la recherche d’information sur Internet : influence des facteurs sociodémographiques et sociocognitifs », Revue des Interactions Humaines Médiatisées, 18 (1), pp. 3-24.</div><a class="resource-link record-access" href="https://europia.org/RIHM/V18N1/1-RIHM18%28N18V1%29-Vayre.pdf" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., LARNAUDIE, L., DUFRESNE, A. (2017), « Cadrer sans discipliner : autour du pouvoir de prescription d’un agent de recommandation », Réseaux, 4 (204), pp. 195-226.</div><a class="resource-link record-access" href="https://doi.org/10.3917/res.204.0195" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., DELPECH, E., DUFRESNE, A., LEMERCIER, C. (2017), « Communication mediated through Natural Language Generation in big data environments: the case of Nomao », Journal of Computer and Communication, (5), pp. 125-148.</div><a class="resource-link record-access" href="https://doi.org/10.4236/jcc.2017.56008" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">LALANNE, M., VAYRE, J.-S., BREMBECK, H., SORUM, N. (2017), « Quand marcher requiert la mobilisation d’équipements imposants : le cas des poussettes et caddies dans la mobilité de consommation », Sciences de la Société, (97), pp. 135-158.</div><a class="resource-link record-access" href="https://doi.org/10.4000/sds.4195" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S, LARNAUDIE, L., DUFRESNE A., LEMERCIER, C. (2016), « Effet distracteur des agents de recommandation et stratégies de navigation des consommateurs : le cas de l’agent de DataCrawler », Revue des Interactions Humaines Médiatisées, 17 (1), pp 77-107.</div><a class="resource-link record-access" href="https://europia.org/RIHM/V17N1/RIHM17%281%29-Vayre.pdf" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2015), « Recherche et découverte d’information dans les environnements « big data » : une étude exploratoire et qualitative », Ingénierie des Systèmes d’Information, 20 (6), pp. 99-120.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/283328918_Recherche_et_decouverte_d%27information_dans_les_environnements_big_data_Une_etude_exploratoire_et_qualitative" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2015), « Les Tableaux de Bord sur Données Massives, pour un nouveau management de l’innovation ? », Innovations, 2 (47), pp. 101-121.</div><a class="resource-link record-access" href="https://doi.org/10.3917/inno.047.0101" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">ALEMANY, M. O., VAYRE, J.-S. (2015), « Big data and the future of knowledge production in marketing research: Ethics, digital traces, and abductive reasoning », Journal of Marketing Analytics, pp. 1-9.</div><a class="resource-link record-access" href="https://doi.org/10.1057/jma.2015.1" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2014), « Manipuler les données. Documenter le marché. Les implications organisationnelles du mouvement big data », Les Cahiers du Numérique, 10 (1), pp. 95-123.</div><a class="resource-link record-access" href="https://doi.org/10.3166/lcn.10.1.95-125" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2012), « Travail ou participation du consommateur ? Consommer : une activité co-élaborée », Sciences de la Société, 82, pp. 169-183.</div><a class="resource-link record-access" href="https://doi.org/10.4000/sds.2088" target="_blank" rel="noopener">Full text ↗</a></div>
+
+## Current preprints and manuscripts — MOVICI-CAVL
+<div class="record"><div class="record-text">MOVICI (2026), CAVL: A Cognitive Architecture for Vigilant Learning, manuscrit en préparation (cible : Educational Psychologist).</div><a class="resource-link record-access" href="https://jeansebastienvayre-prog.github.io/movici/working-papers/wp01-cavl/" target="_blank" rel="noopener">MOVICI ↗</a></div>
+
+<div class="record"><div class="record-text">MOVICI (2026), Prior Knowledge and Learning from Open Web Search, manuscrit finalisé / soumission en préparation.</div><a class="resource-link record-access" href="https://jeansebastienvayre-prog.github.io/movici/working-papers/wp02-information-search/" target="_blank" rel="noopener">MOVICI ↗</a></div>
+
+<div class="record"><div class="record-text">MOVICI (2026), Epistemic Credit in Cooperative and Competitive Debate, manuscrit finalisé / soumission en préparation.</div><a class="resource-link record-access" href="https://jeansebastienvayre-prog.github.io/movici/working-papers/wp03-debate/" target="_blank" rel="noopener">MOVICI ↗</a></div>
+
+<div class="record"><div class="record-text">MOVICI (2026), Learning from Documents and from Others: Knowledge Change and Epistemic Coordination, manuscrit en préparation.</div><a class="resource-link record-access" href="https://jeansebastienvayre-prog.github.io/movici/working-papers/wp04-search-debate/" target="_blank" rel="noopener">MOVICI ↗</a></div>
+
+<div class="record"><div class="record-text">MOVICI-CAVL (2026), Epistemic Credit Misallocation in Socially Embedded Learning: An Empirically Grounded Agent-Based Model of Information Search and Debate, préprint finalisé / soumission au Journal of Artificial Societies and Social Simulation (JASSS) en préparation.</div><a class="resource-link record-access" href="https://jeansebastienvayre-prog.github.io/movici/working-papers/wp05-agent-based-model/" target="_blank" rel="noopener">MOVICI ↗</a></div>
+
+## Book chapters
+<div class="record"><div class="record-text">VAYRE, J.-S. (2024), « La captation des publics à l’ère du big data et de l’intelligence artificielle : les internautes sont-ils manipulables et manipulés ? », in : PETR, C., SEGARD, O., L’urgence de l’hygiène numérique : le monde d’après les données personnelles. Rennes : Presses Universitaires de Rennes.</div><a class="resource-link record-access" href="https://pur-editions.fr/product/9890/le-droit-a-la-vie-privee" target="_blank" rel="noopener">Publisher ↗</a></div>
+
+<div class="record"><div class="record-text">DUCOURANT, H., VAYRE,  J.-S. (2023), « Économie du clic : comment se rémunèrent les médias en ligne ? », in : THEVIOT, A., Petit dico critique du big data. Limoges : FYP.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/378907872_Economie_du_clic_comment_se_remunerent_les_medias_en_ligne" target="_blank" rel="noopener">Research record ↗</a></div>
+
+<div class="record"><div class="record-text">CRISTIA, E., GENY, M., VAYRE, J.-S. (2022), « Quelle créativité à l’ère du numérique ? », in : ANTONIOLI, M., FLIPO, F., Critique de la raison automatique : bêtise(s) et intelligence(s) de la numérisation du monde. Paris : Presses des Mines.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/363520247_Quelle_creativite_a_l%27ere_du_numerique" target="_blank" rel="noopener">Research record ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2020), « Quelques repères sur l’apport des sciences sociales pour l’étude de l’intelligence artificielle », in : MAZOYER, M., JI, Z., BARRAUD, B., L’Intelligence artificielle dans toutes ses dimensions. Paris : L’Harmattan.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/340454200_Quelques_reperes_sur_l%27apport_des_sciences_sociales_pour_l%27etude_de_l%27intelligence_artificielle" target="_blank" rel="noopener">Research record ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2020), « L’organisation des marchés à l’ère des machines apprenantes : comment les technologies de traitement de mégadonnées transforment le travail marchand et la relation client », in : NAU, J.-P., KESSOUS, E., GARCIA-BARDIDIA, R., Les technologies et le gouvernement des marchés : des algorithmes aux biotechnologies. Paris : L’Harmattan.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/340454251_L%27organisation_des_marches_a_l%27ere_des_machines_apprenantes_comment_les_technologies_de_traitement_de_megadonnees_transforment_le_travail_marchand_et_la_relation_client" target="_blank" rel="noopener">Research record ↗</a></div>
+
+<div class="record"><div class="record-text">COCHOY, F., VAYRE, J.-S. (2017), « Les Big Data à l’assaut du marché des dispositifs marchands : une mise en perspective historique », in : MENGER, P.-M., PAYE, S., Big data et traçabilité numérique. Les sciences sociales face à la quantification massive des individus. Paris : Collège de France.</div><a class="resource-link record-access" href="https://doi.org/10.4000/books.cdf.4992" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S, LARNAUDIE, L., DUFRESNE, A. (2017), « Staging serendipity on digitalized markets. The case of the DataCrawler’s recommendation agent », in Cochoy, F., Hagberg, J., SORUM N., Petersson MCIntyre, M., Digitalizing consumption. London and New York: Routledge, pp. 59-84.</div><a class="resource-link record-access" href="https://www.routledge.com/Digitalizing-Consumption-How-devices-shape-consumer-culture/Cochoy-Hagberg-McIntyre-Sorum/p/book/9781138124899" target="_blank" rel="noopener">Publisher ↗</a></div>
+
+<div class="record"><div class="record-text">COCHOY, F., SMOLINSKI, J., VAYRE, J.-S. (2016), « From marketing to « market-things » and « market-ITing »: Accounting for technicized and digitalized consumption », in: CZARNIAWSKA, B., A Research Agenda for Management and Organization Studies. Cheltenham: UK Edward Elgar, pp. 26-37.</div><a class="resource-link record-access" href="https://doi.org/10.4337/9781784717025.00008" target="_blank" rel="noopener">DOI ↗</a></div>
+
+## Book reviews and review essays
+<div class="record"><div class="record-text">VAYRE, J.-S. (2026), « IA et santé. L’âge des possibles d’Olivier Cousin et Andy Smith. Presses de Sciences Po, 2025, 264 pages », Revue française des affaires sociales, 2026/1, pp. 309-315. DOI : 10.3917/rfas.261.0309.</div><a class="resource-link record-access" href="https://doi.org/10.3917/rfas.261.0309" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2022) – Hugo Mercier et Dan Sperber, L’Enigme de la raison, Communications, 39(1).</div><a class="resource-link record-access" href="https://doi.org/10.4000/communication.14989" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2021) « Pour un renouvellement de la sociologie de la performativité : à propos de l’ouvrage de Nicolas Brisset, Economics and performativity: exploring limits, theories and cases, Routledge, 2019 », Revue Française de Socio-Économie, 1 (26), pp. 235-243.</div><a class="resource-link record-access" href="https://shs.cairn.info/revue-francaise-de-socio-economie-2021-1-page-235?lang=fr" target="_blank" rel="noopener">Publisher ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2021), « Pour une critique plurielle de l’intelligence artificielle : retour sur le dossier « STS et Intelligence Artificielle » », Revue d’anthropologie des connaissances, 15 (1).</div><a class="resource-link record-access" href="https://doi.org/10.4000/rac.19266" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2020) – Dominique Cardon, Culture numérique, Communications, 37 (1).</div><a class="resource-link record-access" href="https://doi.org/10.4000/communication.11826" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018) – André Tricot, Gilles Sahut, Julie Lemarié, Le document : communication et mémoire, Communications, 35 (1).</div><a class="resource-link record-access" href="https://doi.org/10.4000/communication.7525" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2017) – Jean-Sébastien Vayre, Des machines à produire des futurs économiques : sociologie des intelligences artificielles marchandes à l’ère du big data, Revue Française de Socio-Économie, pp. 240-241.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/316608828_Jean-Sebastien_Vayre_Des_machines_a_produire_des_futurs_economiques_sociologie_des_intelligences_artificielles_marchandes_a_l%27ere_du_big_data" target="_blank" rel="noopener">Research record ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2016) – Sami Coll, Surveiller et récompenser : les cartes de fidélité qui nous gouvernent, Sociologie du travail, 58, pp. 215-217.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/283328836_Surveiller_et_recompenser_Les_cartes_de_fidelite_qui_nous_gouvernent_S_Coll_Seismo_Geneve_2015_347_p" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2015) – Pierre-Michel Menger, The economy of creativity. Art and achievement under uncertainty, Idées économiques et sociales, 2 (180), pp. 74-75.</div><a class="resource-link record-access" href="https://shs.cairn.info/revue-idees-economiques-et-sociales-2015-2-page-74?lang=fr" target="_blank" rel="noopener">Publisher ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2014) – Ève Chiapello, Patrick Gilbert, Sociologie des outils de gestion. Introduction à l’analyse sociale de l’instrumentation de gestion, L’Année sociologique, 2, 64, pp. e6-e10.</div><a class="resource-link record-access" href="https://hal.science/hal-01099460v1/document" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2013) – Elizabeth Shove, Mika Pantzar, Matt Watson, The Dynamics of Social Practice. Everyday Life and how it Changes, Réseaux, 5 (181), pp. 213-217.</div><a class="resource-link record-access" href="https://doi.org/10.3917/res.181.0205c" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2013) – Julie Denouël, Fabien Granjon (Dir.), Communiquer à l’ère numérique. Regards croisés sur la sociologie des usages, Communication et Organisation, 43, pp. 293-296.</div><a class="resource-link record-access" href="https://doi.org/10.4000/communicationorganisation.4271" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2013) – Emmanuel Kessous, L’Attention au monde. Sociologie des données personnelles à l’ère du numérique, Revue Française de Socio-Economie, 2 (12), pp. 271-273.</div><a class="resource-link record-access" href="https://doi.org/10.3917/rfse.012.0255h" target="_blank" rel="noopener">DOI ↗</a></div>
+
+## Study reports and expertise reports
+<div class="record"><div class="record-text">VAYRE, J.-S. (2023), « Les compétences numériques : mérite individuel ou héritage social ? », Rapport pour le GREDEG, Nice.</div><a class="resource-link record-access" href="https://gredeg.univ-cotedazur.fr/" target="_blank" rel="noopener">GREDEG ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., BESSON, M. (2018), « Rapport d’étude sur les usages de e-dépanneur : agencements problématiques et pistes d’amélioration », Rapport pour le Service Après-Vente de l’entreprise e.l.m. leblanc, Paris.</div><a class="resource-link record-access" href="https://hal.science/hal-02066182" target="_blank" rel="noopener">HAL ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., Besson, M. (2018), « Où en est la transformation numérique des organisations ? Une appropriation inégale des TIC par les entreprises françaises », Rapport pour l’Académie franco-allemande pour l’industrie du futur, Institut Mines Télécom, Paris.</div><a class="resource-link record-access" href="https://www.revue-interrogations.org/La-modernisation-technologique-des" target="_blank" rel="noopener">Related article ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S., Lenoir, N. (2017), « Enquête sur les usages du MOOC « Manage your prices » », Rapport pour l’Ecole Nationale d’Aviation Civile de Toulouse et Toulouse School of Economics, Toulouse.</div><a class="resource-link record-access" href="https://journals.openedition.org/dms/3361" target="_blank" rel="noopener">Related article ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2014), « Comment les big data peuvent-elles permettre de mieux communiquer sur la qualité alimentaire ? », Rapport de fin de mission pour le club Transformation Agroalimentaire, Agri Sud-Ouest Innovation, Toulouse.</div><a class="resource-link record-access" href="https://hal.science/hal-00989789/document" target="_blank" rel="noopener">Full text ↗</a></div>
+
+## Public-science articles
+<div class="record"><div class="record-text">VAYRE, J.-S. (2023), « La captation algorithmique des consommateurs : du problème de la crédulité à celui de la vigilance épistémique » Silo – Agora des pensées critiques.</div><a class="resource-link record-access" href="https://silogora.org/la-captation-algorithmique-des-consommateurs-du-probleme-de-la-credulite-a-celui-de-la-vigilance-epistemique/" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">VAYRE, J.-S. (2018), « La socialisation algorithmique », in : BERANGER, J., Livre blanc d’ADEL.</div><a class="resource-link record-access" href="https://managersante.com/wp-content/uploads/2018/06/ADEL-livre-blanc-VF.pdf" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">Vayre, J.-S. (2017), « Les enjeux de l’automatisation du marketing à l’ère du big data », Tribune @ AFM, Point de vue de chercheurs, le 9 février.</div><a class="resource-link record-access" href="https://www.researchgate.net/publication/314069186_Les_enjeux_de_l%27automatisation_du_marketing_a_l%27ere_du_big_data" target="_blank" rel="noopener">Research record ↗</a></div>

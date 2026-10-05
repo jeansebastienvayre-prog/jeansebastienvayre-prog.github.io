@@ -1,0 +1,43 @@
+---
+title: "Academic Career"
+subtitle: "Positions, education and skills"
+---
+
+## Current position
+
+**2021–present — Tenured Associate Professor (*Maître de conférences*) in Sociology**, Université Côte d’Azur; member of GREDEG (UMR 7321 CNRS).
+
+<a class="resource-link" href="https://univ-cotedazur.fr/jean-sebastien-vayre">UCA profile ↗</a>
+<a class="resource-link" href="https://gredeg.univ-cotedazur.fr/projets-de-recherche/francais-pole-innovation-science-and-technology-pist/team-innos">GREDEG / INNOS ↗</a>
+
+## Previous positions and education
+
+- **2020–2021** — Probationary Associate Professor (*Maître de conférences stagiaire*), Université Côte d’Azur / GREDEG (UMR 7321); teacher-training programme (DUo, CAP-UCA).
+- **2019–2020** — Contract Associate Professor, Université Côte d’Azur / GREDEG (UMR 7321).
+- **2017–2018** — Postdoctoral researcher, Institut Mines-Télécom Business School; member of LITEM (EA 7363).
+- **2017** — Qualification for Associate Professor positions in Sociology and Demography (CNU Section 19).
+- **2016–2017** — ATER, Université Toulouse Jean Jaurès; member of CERTOP (UMR 5044).
+- **2012–2016** — Doctoral researcher (three-year doctoral contract) and then ATER, Université Toulouse Jean Jaurès / CERTOP (UMR 5044). PhD in Sociology supervised by Franck Cochoy; DCCE, ED TESC and Ludovia summer-school training.
+- **2011–2012** — Research Master 2 in Sociology, Université Toulouse Jean Jaurès, specialization *Travail Organisation et Marché*, highest honours (*Mention Très Bien*). Research topic: digital information and communication technologies and consumption; supervisor: Franck Cochoy.
+- **2010–2011** — Research Master 1 in Sociology, Université Toulouse Jean Jaurès, specialization *Travail Organisation et Marché*, highest honours. Research topic: consumer mobility and sustainable cities; supervisors: Michèle Lalanne and Franck Cochoy.
+- **2009–2010** — Bachelor’s degree in Sociology, Université Toulouse Jean Jaurès, specialization in economic sociology.
+- **2007–2009** — DEUG in Sociology, Université Toulouse Jean Jaurès, specialization in economic sociology.
+- **2006–2007** — DAEU A, Université Toulouse Jean Jaurès, social-science and mathematics options.
+
+## Doctoral dissertation
+
+**Vayre, J.-S. (2016).** [*Des machines à produire des futurs économiques : sociologie des intelligences artificielles marchandes à l’ère du big data*](https://www.researchgate.net/publication/316608828_Jean-Sebastien_Vayre_Des_machines_a_produire_des_futurs_economiques_sociologie_des_intelligences_artificielles_marchandes_a_l%27ere_du_big_data). PhD in Sociology, Université Toulouse Jean Jaurès. Supervisor: Franck Cochoy.
+
+## Languages
+
+- **English:** B2.
+
+## Digital and research tools
+
+- **Office:** Word, PowerPoint, Adobe Acrobat.
+- **Data collection, analysis and processing:** RStudio, Excel, SPSS, Tobii Studio, FaceReader, Observer XT, Pajek, Tropes, Web Scraper, NetLogo.
+- **Open science and dissemination:** GitHub.
+
+## Full source CV
+
+<a class="resource-link" href="assets/documents/CV_Jean-Sebastien_Vayre_2026_actualise_octobre.docx">Download the October 2026 academic CV (source document)</a>

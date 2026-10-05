@@ -1,0 +1,50 @@
+---
+title: "Open Science & Academic Reviewing"
+subtitle: "Open research, scientific communication and peer review"
+---
+
+## Open science and scientific dissemination
+
+**2026 — MOVICI scientific website.** Design and publication of the MOVICI research website bringing together the programme presentation, papers, reproducibility resources and dissemination materials.  
+<a class="resource-link" href="https://jeansebastienvayre-prog.github.io/movici/">MOVICI website ↗</a>
+
+**2026 — Scientific video series.** Production of a five-video English-language series devoted to CAVL and the four articles in the MOVICI programme.  
+<a class="resource-link" href="https://www.youtube.com/playlist?list=PLJJXA5R7uEsg">YouTube playlist ↗</a>
+
+**2026 — Reproducibility packages.** Preparation and harmonization of reproducibility packages for the empirical analyses and agent-based modelling developed in MOVICI-CAVL.
+
+## Scientific reviewing and editorial activity
+
+<div class="record"><div class="record-text">2026 - From Disrupted Routines to Sustainable Practice: Integrating Management Sciences to Navigate the Innovation Journey of Precision Imaging (Article : Frontiers in Medicine).</div><a class="resource-link record-access" href="https://www.frontiersin.org/journals/medicine/articles/10.3389/fmed.2026.1965552/abstract" target="_blank" rel="noopener">Article ↗</a></div>
+
+<div class="record"><div class="record-text">2026 - Risk Perception Is Unlikely to Drive Underuse of Social Information in Lab Studies (Article : Frontiers in Psychology).</div><a class="resource-link record-access" href="https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2026.1887755/abstract" target="_blank" rel="noopener">Article ↗</a></div>
+
+<div class="record"><div class="record-text">2026 - Challenging the Dichotomy Between Hype Summers and Disillusionment Winters: A Longitudinal Analysis of Continuities Across AI and Internet Technologies (Article : RESET).</div><a class="resource-link record-access" href="https://journals.openedition.org/reset/" target="_blank" rel="noopener">Journal ↗</a></div>
+
+<div class="record"><div class="record-text">2026 - L’intelligence artificielle comme tiers cognitif : pour une anthropologie des nouvelles médiations du réel (Article : Anthropologie et Sociétés).</div><a class="resource-link record-access" href="https://www.erudit.org/fr/revues/as/" target="_blank" rel="noopener">Journal ↗</a></div>
+
+<div class="record"><div class="record-text">2024 – Sociologie économique de l’information et les arènes d’appariement (Article : Revue Européenne de Sciences Sociales)</div><a class="resource-link record-access" href="https://shs.cairn.info/revue-revue-europeenne-des-sciences-sociales-2025-1-page-13?lang=fr" target="_blank" rel="noopener">Article ↗</a></div>
+
+<div class="record"><div class="record-text">2024 – Capital-risque et gouvernance de l’innovation digitale : analyse par la théorisation ancrée (Actes de conférences : AIMS et AIM 2024)</div><a class="resource-link record-access" href="https://gredeg.univ-cotedazur.fr/medias/fichier/v2-programme-journees-reorienter-l-innovation-aims-aim-2_1728051297603-pdf?ID_FICHE=1289913&INLINE=FALSE" target="_blank" rel="noopener">AIMS–AIM ↗</a></div>
+
+<div class="record"><div class="record-text">2024 – La gestion des connaissances en vue de la sécurisation et de la pérennisation des connaissances ; Intelligence artificielle pour la gestion des ressources humaines : quel impact ? ; Maximiser l’impact du transfert des connaissances dans le domaine social : quels sont les cadres d’évaluation et les outils existants (Actes de conférences : INFORSID 2024).</div><div class="record-links"><a class="resource-link" href="https://inforsid2024.sciencesconf.org/data/4c_Chibout_VF.pdf" target="_blank" rel="noopener">Paper 1 ↗</a><a class="resource-link" href="https://inforsid2024.sciencesconf.org/data/4b_Heiwy_VF.pdf" target="_blank" rel="noopener">Paper 2 ↗</a><a class="resource-link" href="https://inforsid2024.sciencesconf.org/data/4a_Ziam_VF.pdf" target="_blank" rel="noopener">Paper 3 ↗</a></div></div>
+
+<div class="record"><div class="record-text">2022 – Des chatbots et des humains (Article : Socio-anthropologie).</div><a class="resource-link record-access" href="https://journals.openedition.org/socio-anthropologie/" target="_blank" rel="noopener">Journal ↗</a></div>
+
+<div class="record"><div class="record-text">2022 – L’urgence de l’hygiène numérique : le monde d’après les données personnelles (Ouvrage collectif : dir. Christine Petr et Olivier Segard).</div><a class="resource-link record-access" href="https://pur-editions.fr/product/9890/le-droit-a-la-vie-privee" target="_blank" rel="noopener">Book ↗</a></div>
+
+<div class="record"><div class="record-text">2022 – Réduire l’incertitude des algorithmes : les effets sociaux du fonctionnement de la plateforme « Admission Post-Bac » sur l’offre d’orientation scolaire (Article : Question de communication).</div><a class="resource-link record-access" href="https://journals.openedition.org/questionsdecommunication/pdf/26930" target="_blank" rel="noopener">Full text ↗</a></div>
+
+<div class="record"><div class="record-text">2022 – An Informed and Viable Privacy Consent Framework for Software Development (PRIVASOFT ; Projet de recherche : ANR).</div><a class="resource-link record-access" href="https://www.msh-lse.fr/wp-content/uploads/2022/01/rgpdos-20220113-atelier-programme.pdf" target="_blank" rel="noopener">Project program ↗</a></div>
+
+<div class="record"><div class="record-text">2021 – Action publique et styles de raisonnement économique : moderniser l’économie agroalimentaire française au tournant des années 1970 (Article : Revue Française de Socio-Économie).</div><a class="resource-link record-access" href="https://doi.org/10.3917/rfse.031.0131" target="_blank" rel="noopener">DOI ↗</a></div>
+
+<div class="record"><div class="record-text">2020 – L’intelligence artificielle au service de l’interprétation des données d’imagerie : entre automatisation et expertise professionnelle (Acte de conférence : AIM 2021).</div><a class="resource-link record-access" href="https://aim.asso.fr/fr/publications/actes-conferences/theme-45-aim-2021" target="_blank" rel="noopener">Proceedings ↗</a></div>
+
+<div class="record"><div class="record-text">2019 – Digital detachment dilemmas: click bait, stickiness, and the kindness of strangers (Chapitre d’ouvrage : dir. Franck Cochoy).</div><a class="resource-link record-access" href="https://www.routledge.com/Digitalizing-Consumption-How-devices-shape-consumer-culture/Cochoy-Hagberg-McIntyre-Sorum/p/book/9781138124899" target="_blank" rel="noopener">Related book ↗</a></div>
+
+## Research profiles
+
+<a class="resource-link" href="https://www.researchgate.net/profile/Jean-Sebastien-Vayre">ResearchGate ↗</a>
+<a class="resource-link" href="https://univ-cotedazur.fr/jean-sebastien-vayre">Université Côte d’Azur ↗</a>
+<a class="resource-link" href="https://fr.linkedin.com/in/jean-sebastien-vayre-30b54514a">LinkedIn ↗</a>

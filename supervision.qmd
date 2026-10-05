@@ -1,0 +1,81 @@
+---
+title: "Supervision & Assessment"
+subtitle: "Postdoctoral, doctoral, Master’s and undergraduate supervision"
+---
+
+<div class="note-original">All programme names, supervision roles and degree levels are presented in English. Thesis and report titles are retained in French, their original language. French degree distinctions are translated descriptively and the original French mention is retained in parentheses.</div>
+
+## Postdoctoral level
+
+- **2024–2025** — Supervision of Cheyenne Dosso’s postdoctoral research within the MOVICI research project. Cheyenne Dosso holds a PhD in Cognitive Psychology and Human Factors / Human–Computer Interaction Ergonomics.
+
+## Doctoral level
+
+- **2022–present** — Co-supervision with Gérald Gaglio of Burhan Ozdemir’s PhD thesis: « L’appropriation de la technologie Blockchain par l’entreprise-réseau EDF dans l’accompagnement de la transition énergétique : les enjeux de la vie privée et de la confiance ».
+- **2023–present** — Member of Vincent Berthier’s Individual Doctoral Monitoring Committee.
+- **2022–present** — Member of Sylvain Juanes’s Individual Doctoral Monitoring Committee.
+- **2021–2024** — Member of Luca Baccino’s Individual Doctoral Monitoring Committee. Thesis: « L’économie des infox : une extension théorique à l’économie des plateformes numériques et une application pour rationaliser la polarisation des croyances sociales liées à la crise COVID-19 ».
+- **2020–2023** — Member of Adrian Candau’s Individual Doctoral Monitoring Committee. Thesis: « La médecine générale : évolution des contours d’un segment professionnel et approche sociologique de la décision médicale ».
+
+## Master’s level
+
+### 2024/2025
+
+- **Manel Momohandamer** — Co-supervision with Cheyenne Dosso of a second-year Master’s thesis in Cognitive Psychology and Human Factors Engineering: « Modélisation de la vigilance épistémique et de ses institutions dans la communication des informations sur Internet ». **With high honors (Mention bien).**
+
+### 2023/2024
+
+- **Ndeye Samba Ndiaye** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « La socialisation aux usages d’Internet et aux outils du numérique au Sénégal : le cas des étudiants de l’Université Cheikh Anta Diop de Dakar ». **With honors (Mention assez bien).**
+- **Manon Dubreuil** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « La perception du complotisme par les non-complotistes ». **With high honors (Mention bien).**
+- **Nolwenn Allaire** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « L’accès à l’enseignement supérieur via la plateforme numérique Parcoursup ». **With highest honors (Mention très bien).**
+- **Luca Fernandez** — Supervision of a first-year Master’s thesis in Sociology and Economics (CESUN + CODEEN): « L’impact et l’implantation du numérique sur la commune de Valdeblore ». **With honors (Mention assez bien).**
+- **Talia Nguyen** — Co-supervision with Cheyenne Dosso of a first-year Master’s thesis in Cognitive Science: « Etude de l’influence des dynamiques sociales de compétition et de coopération sur la recherche d’information ». **With high honors (Mention bien).**
+- **Julie Si Amour** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses, supervised by Isabella Feroni and Manuel Boutet: « Pluralité des dénonciations et modalités d’expression de l’hashtag #BalanceTonPorc : état du mouvement en 2024 ». **With honors (Mention assez bien).**
+
+### 2022/2023
+
+- **Mathieu Joffre** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « L’environnement numérique des étudiants : un outil idéologique ». **Pass (Mention passable).**
+- **Lena Sciberas** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses, supervised by Gilles Frigoli: « Éducation nationale et lutte contre le conspirationnisme : quand les professeurs s’approprient une consigne ». **With highest honors (Mention très bien).**
+- **Johanne Bazetoux** — Examiner for a second-year Master’s thesis in Sociological Research and Digital Uses, supervised by Catherine Blaya and Valérie Erlich: « Harcèlement en ligne ». **With highest honors (Mention très bien).**
+- **Mathias Serra** — Examiner for a second-year Master’s thesis in Sociological Research and Digital Uses, supervised by Gérald Gaglio: « Rapport de stage au Centre d’Innovation et d’Usages en Santé ». **With highest honors (Mention très bien).**
+- **Raphaël Klinkhamer** — Examiner for a second-year Master’s thesis in Sociological Research and Digital Uses, supervised by Gérald Gaglio: « Analyse de l’identité, de la culture et du fonctionnement d’un club de foot amateur ». **Pass (Mention passable).**
+
+### 2021/2022
+
+- **Manon Lainé** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « Genre et télétravail ». **With high honors (Mention bien).**
+- **Paul Truchi** — Co-supervision with Nicolas Brisset of a first-year Master’s thesis in Sociology and Economics (CESUN): « Nouvelle forme de parentalité ». **With high honors (Mention bien).**
+- **Johanne Bazetoux** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses, supervised by Catherine Blaya and Valérie Erlich: « Harcèlement en ligne ». **With highest honors (Mention très bien).**
+- **Mathias Serra** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses, supervised by Manuel Boutet: « Jeux vidéo ». **With honors (Mention assez bien).**
+
+### 2020/2021
+
+- **Sylvia Tornatora** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « Entre communication politique et émotion pour l’adoption des comportements sanitaires liés à la crise de la covid-19 ». **With high honors (Mention bien).**
+- **Sana Meskine** — Supervision of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « La domination Internet : la perception des adolescents face à la récolte de leurs données personnelles ». **With high honors (Mention bien).**
+- **Hugo Ben Abdeljelil** — Co-supervision with Hélène Ducourant of a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN): « Invention du futur bancaire et processus d’innovation à l’ère de l’Open Banking, le cas de la DSP2 ». **With honors (Mention assez bien).**
+- **Adrien Vuillaumier** — Examiner for a first-year Master’s thesis in Social Sciences, supervised by Alina Surubaru: « Le travail commercial dans les strats-ups de l’intelligence artificielle : une activité aux frontières des organisations ? ». **With highest honors (Mention très bien).**
+
+### 2019/2020
+
+- **Camilo de la Torre** — Supervision of the internship component of a second-year dual Master’s degree in Sociology and Economics: « Trajectoire de la création d’un outil de gestion ascendant au sein d’une organisation ». **With highest honors (Mention très bien).**
+- **Burhan Ozdemir** — Co-supervision with Gérald Gaglio of a second-year Master’s thesis in Sociology and Economics: « Blockchain et enjeux de vie privée : les tensions autour des technologies de confiance ». **With high honors (Mention bien).**
+- **Luca Baccino** — Supervision of a first-year dual Master’s thesis in Sociology and Economics: « Les controverses dans l’intelligence artificielle ». **With high honors (Mention bien).**
+- **Atea Poulin** — Examiner for a second-year Master’s internship report in Sociological Research and Digital Uses (CESUN), supervised by Gérald Gaglio: « L’innovation en temps de crise sanitaire ». **With high honors (Mention bien).**
+- **Fahd Marchiche** — Examiner for a second-year Master’s internship report in Sociology and Economics, supervised by Gérald Gaglio: « La COVID-19 et la technologie de recherche des contacts ». **With high honors (Mention bien).**
+- **Laurent Marin** — Examiner for a second-year Master’s internship report in Sociology and Economics, supervised by Gérald Gaglio: « Analyse des formes d’institutionnalisation et d’organisation de l’offre de compensation écologique en milieu agricole en PACA ». **With high honors (Mention bien).**
+- **Quentin Rozand** — Examiner for a second-year Master’s internship report in Sociology and Economics, supervised by Gérald Gaglio: « Sensibilisation des séniors au numérique ». **With high honors (Mention bien).**
+- **Camille Patey** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN), supervised by Gérald Gaglio: « L’amour 2.0 ». **With highest honors (Mention très bien).**
+- **Théo Giovanazzi** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN), supervised by Manuel Boutet: « Smite ! Jouer en parlant, de la multi-activité des joueurs en ligne ». **With high honors (Mention bien).**
+- **Barry Alimou** — Examiner for a first-year Master’s thesis in Sociological Research and Digital Uses (CESUN), supervised by Manuel Boutet: « La gestion de l’eau dans le milieu agricole : enquête auprès des agriculteurs de la plaine du Var ». **With high honors (Mention bien).**
+
+### 2016/2017
+
+- **Charlotte Esteban** — Contribution to the supervision of a second-year Master’s thesis in Sociological Research and Studies, supervised by Franck Cochoy and Roland Canu: « Développer des machines à faire parler : marché et ontologies. Le cas des automates conversationnels numériques ». **With highest honors (Mention très bien).**
+
+### 2014/2015
+
+- **Lucie Larnaudie** — Contribution to the supervision of a second-year Master’s thesis in Ergonomics — Models, Analyses and Protocols, supervised by Julien Cegarra and Franck Cochoy: « Évaluation centrée utilisateurs de l’agent de recommandations marchandes personnalisées de la Start-Up Pig Data. Impact de l’agent sur l’utilisabilité des sites d’e-commerce ». **With highest honors (Mention très bien).**
+
+## Undergraduate level
+
+- **2020–2024** — Supervision of third-year Bachelor’s-level Sociology internship reports (average cohort: approximately 35 students per year).
+- **2021–2024** — Supervision of one or two research projects per year undertaken by third-year Sociology–Economics dual-degree students for the final oral examination.

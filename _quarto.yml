@@ -1,0 +1,49 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Jean-Sébastien Vayre"
+  site-url: "https://jeansebastienvayre-prog.github.io/"
+  navbar:
+    pinned: true
+    collapse: true
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: conferences.qmd
+        text: Conferences & Talks
+      - href: projects-service.qmd
+        text: Projects & Service
+      - text: "Teaching"
+        menu:
+          - href: teaching.qmd
+            text: "Teaching Record"
+          - href: supervision.qmd
+            text: "Supervision & Assessment"
+      - href: open-science.qmd
+        text: Open Science
+      - href: career.qmd
+        text: Academic Career
+  page-footer:
+    center: "Jean-Sébastien Vayre · Université Côte d’Azur · GREDEG (UMR 7321 CNRS)"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-location: right
+    toc-title: "On this page"
+    number-sections: false
+    footnotes-hover: true
+    crossrefs-hover: true
+    link-external-newwindow: true
+    smooth-scroll: true
+
+execute:
+  freeze: auto

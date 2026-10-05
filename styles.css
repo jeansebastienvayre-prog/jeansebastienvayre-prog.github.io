@@ -1,0 +1,365 @@
+/* MOVICI — restrained academic design */
+
+:root {
+  --movici-text: #202124;
+  --movici-muted: #6a6d72;
+  --movici-rule: #dedede;
+  --movici-soft: #f6f6f5;
+  --movici-softer: #fafafa;
+  --movici-link: #2f4f5f;
+}
+
+body {
+  color: var(--movici-text);
+  font-size: 1.03rem;
+  line-height: 1.72;
+  background: #ffffff;
+}
+
+.navbar {
+  background: #ffffff !important;
+  border-bottom: 1px solid var(--movici-rule);
+  box-shadow: none;
+}
+
+.navbar-brand {
+  font-weight: 750;
+  letter-spacing: 0.07em;
+}
+
+.navbar .nav-link {
+  font-size: 0.94rem;
+}
+
+main.content {
+  max-width: 900px;
+}
+
+.quarto-title-block {
+  margin-bottom: 1.7rem;
+  padding-bottom: 1.15rem;
+  border-bottom: 1px solid var(--movici-rule);
+}
+
+.quarto-title-block .title {
+  font-family: Georgia, "Times New Roman", serif;
+  font-weight: 600;
+  letter-spacing: -0.015em;
+  line-height: 1.12;
+}
+
+.quarto-title-block .subtitle {
+  color: var(--movici-muted);
+  font-size: 1.05rem;
+  margin-top: 0.55rem;
+}
+
+h2, h3 {
+  line-height: 1.25;
+}
+
+h2 {
+  margin-top: 2.6rem;
+  padding-top: 0.2rem;
+  font-size: 1.48rem;
+}
+
+h3 {
+  font-size: 1.16rem;
+}
+
+a {
+  color: var(--movici-link);
+}
+
+.movici-author {
+  font-size: 1rem;
+  margin: 0.25rem 0 0.15rem 0;
+  font-weight: 600;
+}
+
+.movici-author a {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px solid #bcbcbc;
+}
+
+.movici-meta {
+  color: var(--movici-muted);
+  font-size: 0.92rem;
+  margin-bottom: 1.2rem;
+}
+
+.resources {
+  margin: 1.1rem 0 2.3rem 0;
+  padding: 0.9rem 1rem;
+  background: var(--movici-softer);
+  border: 1px solid var(--movici-rule);
+  border-radius: 6px;
+}
+
+.resources-title {
+  font-weight: 700;
+  margin-right: 0.8rem;
+}
+
+.resource-link {
+  display: inline-block;
+  margin: 0.22rem 0.35rem 0.22rem 0;
+  padding: 0.28rem 0.62rem;
+  border: 1px solid #cfcfcf;
+  border-radius: 999px;
+  text-decoration: none;
+  background: white;
+  font-size: 0.9rem;
+}
+
+.resource-link:hover {
+  background: var(--movici-soft);
+}
+
+.video-placeholder {
+  aspect-ratio: 16 / 9;
+  min-height: 280px;
+  background: var(--movici-soft);
+  border: 1px solid var(--movici-rule);
+  border-radius: 7px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  color: var(--movici-muted);
+  margin: 1rem 0 2.2rem 0;
+}
+
+.video-play {
+  font-size: 2.4rem;
+  line-height: 1;
+  margin-bottom: 0.8rem;
+}
+
+.abstract-block {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1rem;
+  background: var(--movici-softer);
+  border-left: 3px solid #b9b9b9;
+  padding: 1rem 1.2rem;
+}
+
+.keywords {
+  color: var(--movici-muted);
+  margin: 0.9rem 0 2rem 0;
+  font-size: 0.94rem;
+}
+
+.home-intro {
+  max-width: 760px;
+}
+
+.wp-list {
+  border-top: 1px solid var(--movici-rule);
+  margin-top: 1.7rem;
+}
+
+.wp-entry {
+  padding: 1.35rem 0 1.45rem 0;
+  border-bottom: 1px solid var(--movici-rule);
+}
+
+.wp-entry h3 {
+  margin-top: 0.25rem;
+  margin-bottom: 0.35rem;
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 1.28rem;
+}
+
+.wp-number {
+  color: var(--movici-muted);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+}
+
+.team-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 0.8rem;
+  margin-top: 1.4rem;
+}
+
+.team-person {
+  padding: 1rem;
+  border: 1px solid var(--movici-rule);
+  border-radius: 6px;
+  background: var(--movici-softer);
+}
+
+.team-person strong {
+  display: block;
+  margin-bottom: 0.2rem;
+}
+
+.team-person span {
+  color: var(--movici-muted);
+  font-size: 0.94rem;
+}
+
+.placeholder-note {
+  background: var(--movici-soft);
+  border-left: 3px solid #b0b0b0;
+  padding: 0.85rem 1rem;
+  color: var(--movici-muted);
+  margin: 1rem 0 1.5rem 0;
+}
+
+#TOC {
+  font-size: 0.88rem;
+}
+
+.nav-footer {
+  border-top: 1px solid var(--movici-rule);
+  color: var(--movici-muted);
+  font-size: 0.88rem;
+}
+
+@media (max-width: 991px) {
+  main.content {
+    max-width: 100%;
+  }
+  .team-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
+
+/* Functional additions for the complete MOVICI site */
+.video-embed {
+  aspect-ratio: 16 / 9;
+  width: 100%;
+  margin: 1rem 0 2.2rem 0;
+}
+
+.video-embed iframe {
+  width: 100%;
+  height: 100%;
+  border: 0;
+  border-radius: 7px;
+}
+
+.resources-note {
+  display: inline-block;
+  color: var(--movici-muted);
+  font-size: 0.9rem;
+  margin-left: 0.4rem;
+}
+
+.team-section {
+  margin-top: 2.2rem;
+}
+
+.funding-item {
+  padding: 1rem 0;
+  border-bottom: 1px solid var(--movici-rule);
+}
+
+.funding-item strong {
+  display: block;
+  margin-bottom: 0.25rem;
+}
+
+.movici-citation-hover {
+  border-bottom: 1px dotted #8c8c8c;
+  cursor: help;
+}
+
+#movici-citation-tooltip {
+  position: fixed;
+  display: none;
+  z-index: 9999;
+  max-width: 460px;
+  padding: 0.75rem 0.85rem;
+  background: #ffffff;
+  border: 1px solid #cfcfcf;
+  border-radius: 6px;
+  box-shadow: 0 5px 18px rgba(0,0,0,0.14);
+  font-size: 0.88rem;
+  line-height: 1.45;
+}
+
+#movici-citation-tooltip a {
+  display: inline-block;
+  margin-top: 0.4rem;
+  font-weight: 600;
+}
+
+
+/* DOI-linked citations */
+a.movici-citation-hover {
+  color: inherit;
+  text-decoration: none;
+  border-bottom: 1px dotted #8c8c8c;
+}
+
+a.movici-citation-hover:hover {
+  color: inherit;
+  text-decoration: none;
+  border-bottom-color: #4f4f4f;
+}
+
+/* Bibliography DOI links */
+#movici-references a[href*="doi.org"] {
+  overflow-wrap: anywhere;
+  word-break: break-word;
+}
+
+
+/* Personal academic website additions */
+.hero-name { font-family: Georgia, "Times New Roman", serif; font-size: 2.35rem; font-weight: 600; margin-bottom: .25rem; }
+.hero-role { color: var(--movici-muted); font-size: 1.07rem; margin-bottom: 1.4rem; }
+.home-links { margin: 1.2rem 0 2rem 0; }
+.record {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(6.5rem, 11.5rem);
+  gap: .55rem 1rem;
+  align-items: start;
+  padding: .92rem 0;
+  border-bottom: 1px solid var(--movici-rule);
+  min-height: 3.3rem;
+}
+.record:first-of-type { border-top: 1px solid var(--movici-rule); }
+.record-text { line-height: 1.55; min-width: 0; overflow-wrap: anywhere; }
+.record-access {
+  position: static;
+  justify-self: end;
+  align-self: start;
+  min-width: 0;
+  max-width: 11.5rem;
+  text-align: center;
+  white-space: normal;
+  line-height: 1.2;
+  overflow-wrap: anywhere;
+  box-sizing: border-box;
+}
+.record-links {
+  justify-self: end;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: flex-end;
+  gap: .35rem;
+  max-width: 14rem;
+}
+.record-links .resource-link { margin: 0; white-space: normal; text-align: center; line-height: 1.2; }
+.timeline-item { padding: .8rem 0; border-bottom: 1px solid var(--movici-rule); }
+.timeline-date { font-weight: 700; }
+.note-original { color: var(--movici-muted); font-size: .92rem; padding: .8rem 1rem; background: var(--movici-softer); border-left: 3px solid #b9b9b9; margin: 1rem 0 1.8rem 0; }
+.profile-links .resource-link { margin-bottom: .45rem; }
+.quick-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:.8rem; margin:1.2rem 0 2rem 0; }
+.quick-card { padding:1rem; border:1px solid var(--movici-rule); border-radius:6px; background:var(--movici-softer); }
+.quick-card strong { display:block; margin-bottom:.25rem; }
+@media (max-width: 760px) {
+  .record { grid-template-columns: 1fr; }
+  .record-access { justify-self: start; max-width: 100%; }
+  .record-links { justify-self: start; justify-content: flex-start; max-width: 100%; }
+  .quick-grid { grid-template-columns: 1fr; }
+}
