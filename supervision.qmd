@@ -1,6 +1,6 @@
----
-title: "Supervision & Assessment"
+---title: "Supervision & Assessment"
 subtitle: "Postdoctoral, doctoral, Master’s and undergraduate supervision"
+description: "Student supervision, Master’s theses, doctoral activities and academic assessment by Jean-Sébastien Vayre."
 ---
 
 <div class="note-original">All programme names, supervision roles and degree levels are presented in English. Thesis and report titles are retained in French, their original language. French degree distinctions are translated descriptively and the original French mention is retained in parentheses.</div>

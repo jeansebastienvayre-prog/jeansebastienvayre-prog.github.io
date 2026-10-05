@@ -1,6 +1,6 @@
----
-title: "Research"
+---title: "Research"
 subtitle: "Research programme and themes"
+description: "Research profile of Jean-Sébastien Vayre: artificial intelligence, digital technologies, information search, learning, epistemic vigilance, cognition and computational social science."
 ---
 
 My work connects sociology, cognitive science and computational approaches to investigate how knowledge is produced, evaluated, communicated and used in technologically mediated environments.

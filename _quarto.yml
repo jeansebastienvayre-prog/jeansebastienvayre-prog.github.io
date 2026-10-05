@@ -1,6 +1,12 @@
+lang: en
+
 project:
   type: website
   output-dir: _site
+  render:
+    - "*.qmd"
+  resources:
+    - "assets/**"
 
 website:
   title: "Jean-Sébastien Vayre"
@@ -35,6 +41,7 @@ website:
 format:
   html:
     theme: cosmo
+    include-in-header: seo.html
     css: styles.css
     toc: true
     toc-location: right

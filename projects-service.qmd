@@ -1,6 +1,6 @@
----
-title: "Projects & Academic Service"
+---title: "Projects & Academic Service"
 subtitle: "Scientific responsibilities, event organization and research collaborations"
+description: "Research projects, scientific responsibilities, academic service, collaborations and event organization by Jean-Sébastien Vayre."
 ---
 
 <div class="note-original">Official project, seminar and event titles are kept in their original language. Dates, roles and institutional context follow the October 2026 CV.</div>
@@ -54,7 +54,7 @@ subtitle: "Scientific responsibilities, event organization and research collabor
 
 <div class="record"><div class="record-text">Février 2018/Juin 2018 : responsable de l’organisation du séminaire « Entreprise du futur : quels enjeux économiques, sociaux et humains », à l’école ParisTech :</div><a class="resource-link record-access" href="https://www.imt-bs.eu/wp-content/uploads/2018/05/Livre-blanc-Entreprise-du-futur-les-enjeux-de-la-transformation-num%C3%A9rique.pdf" target="_blank" rel="noopener">Background ↗</a></div>
 
-<div class="record"><div class="record-text">séance 1 : « Qu’est-ce que l’entreprise du futur ? Passé, présent et avenir de la numérisation des organisation » avec Daniel Kaplan et Jean-Garbiel Ganascia ;</div><a class="resource-link record-access" href="https://imaginizing.eu/2018/02/16/lentreprise-du-futur-est-elle-une-entreprise/" target="_blank" rel="noopener">Event page ↗</a></div>
+<div class="record"><div class="record-text">séance 1 : « Qu’est-ce que l’entreprise du futur ? Passé, présent et avenir de la numérisation des organisation » avec Daniel Kaplan et Jean-Gabriel Ganascia ;</div><a class="resource-link record-access" href="https://imaginizing.eu/2018/02/16/lentreprise-du-futur-est-elle-une-entreprise/" target="_blank" rel="noopener">Event page ↗</a></div>
 
 <div class="record"><div class="record-text">séance 2 : « Consommer à l’ère du numérique » avec Christophe Benavent et Franck Cochoy ;</div><a class="resource-link record-access" href="https://www.imt-bs.eu/wp-content/uploads/2018/05/Livre-blanc-Entreprise-du-futur-les-enjeux-de-la-transformation-num%C3%A9rique.pdf" target="_blank" rel="noopener">Series background ↗</a></div>
 
@@ -64,9 +64,9 @@ subtitle: "Scientific responsibilities, event organization and research collabor
 
 <div class="record"><div class="record-text">Février 2018 : responsable (avec Madeleine Besson) de l’organisation du deuxième workshop des 2 et 3 février 2018 du projet Industry Without Borders, à l’IMT Atlantique de Brest.</div><a class="resource-link record-access" href="https://www.future-industry.org/research/network-cooperation/industry-without-borders/" target="_blank" rel="noopener">Project page ↗</a></div>
 
-<div class="record"><div class="record-text">Novembre 2017 : responsable (avec Madeleine Besson) de l’organisation du premier workshop du 15 nombre 2017 du projet Industry Without Borders, à l’IMT Atlantique de Brest.</div><a class="resource-link record-access" href="https://www.mines-stetienne.fr/wp-content/uploads/2018/07/RA2017-BD.pdf" target="_blank" rel="noopener">Annual report ↗</a></div>
+<div class="record"><div class="record-text">Novembre 2017 : responsable (avec Madeleine Besson) de l’organisation du premier workshop du 15 novembre 2017 du projet Industry Without Borders, à l’IMT Atlantique de Brest.</div><a class="resource-link record-access" href="https://www.mines-stetienne.fr/wp-content/uploads/2018/07/RA2017-BD.pdf" target="_blank" rel="noopener">Annual report ↗</a></div>
 
-<div class="record"><div class="record-text">Janvier 2017 : responsable (avec Loïc Caroux) de la grande conférence « Robotique » organisée par ComUniTIC, à La Cantine Toulouse.</div><a class="resource-link record-access" href="https://www.cheops.fr/presse/2017/2017.01.13_Cloud-_-le-bordelais-Cheops-Technology-vise-la-cour-des-grands-MID-e-news-13012017.pdf" target="_blank" rel="noopener">Event record ↗</a></div>
+<div class="record record-no-link"><div class="record-text">Janvier 2017 : responsable (avec Loïc Caroux) de la grande conférence « Robotique » organisée par ComUniTIC, à La Cantine Toulouse.</div></div>
 
 <div class="record"><div class="record-text">Février 2016 : responsable de la grande conférence « Sciences humaines et sociales et big data » organisée par ComUniTIC, à La Cantine Toulouse.</div><a class="resource-link record-access" href="https://www.ut-capitole.fr/accueil/recherche/unites-et-structures-de-recherche/colloques-conferences-seminaires/grande-conf-sciences-humaines-et-sociales-et-big-data" target="_blank" rel="noopener">Event page ↗</a></div>
 
@@ -80,7 +80,7 @@ subtitle: "Scientific responsibilities, event organization and research collabor
 
 <div class="record"><div class="record-text">Décembre 2020/Mai 2021 : participation au projet de recherche ADAVEC coordonné par Amar Bouali (objet : « Enquête sur la conception et les usages de la voiture autonome »).</div><a class="resource-link record-access" href="https://www.aktantis.com/projets/adavec/" target="_blank" rel="noopener">Project page ↗</a></div>
 
-<div class="record"><div class="record-text">Octobre 2017/Décembre 2018 : participation au projet de recherche Industry Without Borders coordonné par Madeleine Besson (responsable pour l’Institut Mines Télécom) et Ulrich Meyer (responsable pour la Technische Universität Müchen) et financé par le German-French Academy for the Industry of the Futur (objet : « Enquête sur la numérisation des organisations »).</div><a class="resource-link record-access" href="https://www.future-industry.org/research/network-cooperation/industry-without-borders/" target="_blank" rel="noopener">Project page ↗</a></div>
+<div class="record"><div class="record-text">Octobre 2017/Décembre 2018 : participation au projet de recherche Industry Without Borders coordonné par Madeleine Besson (responsable pour l’Institut Mines Télécom) et Ulrich Meyer (responsable pour la Technische Universität München) et financé par le German-French Academy for the Industry of the Future (objet : « Enquête sur la numérisation des organisations »).</div><a class="resource-link record-access" href="https://www.future-industry.org/research/network-cooperation/industry-without-borders/" target="_blank" rel="noopener">Project page ↗</a></div>
 
 <div class="record"><div class="record-text">Décembre 2016/Décembre 2017 : participation à un projet de recherche mené en collaboration avec l’Ecole Nationale d’Aviation Civile (ENAC ; Responsables : Nathalie Lenoir et Jacques Raynal) et l’Ecole d’économie de Toulouse (TSE ; Responsable : Christophe Bontemps) dans le cadre du réseau de recherche FutureLearn Academic Network (FLAN ; objet : « Enquête sur les usages d’un MOOC »).</div><a class="resource-link record-access" href="https://learninghub.enac.fr/productions/mooc-manage-your-prices/" target="_blank" rel="noopener">Course page ↗</a></div>
 

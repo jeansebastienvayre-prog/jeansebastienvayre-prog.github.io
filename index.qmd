@@ -1,6 +1,19 @@
 ---
-title: "Jean-Sébastien Vayre"
+title: "Jean-Sébastien Vayre — Sociologist of AI, Digital Technologies & Cognition"
 subtitle: "Sociology · Digital Technologies · Artificial Intelligence · Cognition"
+description: "Academic website of Jean-Sébastien Vayre, Associate Professor of Sociology at Université Côte d’Azur and GREDEG (UMR 7321 CNRS). Research on artificial intelligence, digital technologies, information search, learning, epistemic vigilance and computational modelling."
+keywords:
+  - Jean-Sébastien Vayre
+  - Jean Sebastien Vayre
+  - Jean-Sebastien Vayre
+  - sociology
+  - artificial intelligence
+  - digital technologies
+  - epistemic vigilance
+  - information search
+  - learning
+  - computational social science
+  - agent-based modelling
 toc: false
 ---
 

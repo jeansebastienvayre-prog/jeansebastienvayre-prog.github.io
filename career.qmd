@@ -1,6 +1,6 @@
----
-title: "Academic Career"
+---title: "Academic Career"
 subtitle: "Positions, education and skills"
+description: "Academic career, positions, education, skills and affiliations of Jean-Sébastien Vayre."
 ---
 
 ## Current position
@@ -18,8 +18,8 @@ subtitle: "Positions, education and skills"
 - **2017** — Qualification for Associate Professor positions in Sociology and Demography (CNU Section 19).
 - **2016–2017** — ATER, Université Toulouse Jean Jaurès; member of CERTOP (UMR 5044).
 - **2012–2016** — Doctoral researcher (three-year doctoral contract) and then ATER, Université Toulouse Jean Jaurès / CERTOP (UMR 5044). PhD in Sociology supervised by Franck Cochoy; DCCE, ED TESC and Ludovia summer-school training.
-- **2011–2012** — Research Master 2 in Sociology, Université Toulouse Jean Jaurès, specialization *Travail Organisation et Marché*, highest honours (*Mention Très Bien*). Research topic: digital information and communication technologies and consumption; supervisor: Franck Cochoy.
-- **2010–2011** — Research Master 1 in Sociology, Université Toulouse Jean Jaurès, specialization *Travail Organisation et Marché*, highest honours. Research topic: consumer mobility and sustainable cities; supervisors: Michèle Lalanne and Franck Cochoy.
+- **2011–2012** — Research Master 2 in Sociology, Université Toulouse Jean Jaurès, specialization *Travail Organisation et Marché*, with highest honors (*Mention Très Bien*). Research topic: digital information and communication technologies and consumption; supervisor: Franck Cochoy.
+- **2010–2011** — Research Master 1 in Sociology, Université Toulouse Jean Jaurès, specialization *Travail Organisation et Marché*, with highest honors (*Mention Très Bien*). Research topic: consumer mobility and sustainable cities; supervisors: Michèle Lalanne and Franck Cochoy.
 - **2009–2010** — Bachelor’s degree in Sociology, Université Toulouse Jean Jaurès, specialization in economic sociology.
 - **2007–2009** — DEUG in Sociology, Université Toulouse Jean Jaurès, specialization in economic sociology.
 - **2006–2007** — DAEU A, Université Toulouse Jean Jaurès, social-science and mathematics options.

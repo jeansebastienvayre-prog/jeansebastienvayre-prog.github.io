@@ -1,6 +1,6 @@
----
-title: "Conferences & Talks"
+---title: "Conferences & Talks"
 subtitle: "Published proceedings, academic communications and public-science talks"
+description: "Conference papers, invited talks and public-science communications by Jean-Sébastien Vayre."
 ---
 
 <div class="note-original">Talk and conference titles are retained in the original language. Buttons point only to identified public resources such as proceedings, programmes, event pages, institutional records or related outputs. No generic search buttons are used.</div>
@@ -9,7 +9,7 @@ subtitle: "Published proceedings, academic communications and public-science tal
 
 <div class="record"><div class="record-text">DOSSO, C., VAYRE, J.-S., BENLAMINE, M. S., MORISSEAU, T., HEINTZ, C. (2025), « Effet de la compétition-compétitivité vs coopération-coopérativité sur la recherche d’informations et l’apprentissage sur Internet », actes de la 12e Conférence sur les Environnements Informatiques pour l’Apprentissage Humain (EIAH 2025), Lille, pp. 388-403.</div><a class="resource-link record-access" href="https://access.archive-ouverte.unige.ch/access/metadata/e3b577ee-b896-4fd1-812b-060190cb4e16/download" target="_blank" rel="noopener">Proceedings ↗</a></div>
 
-<div class="record"><div class="record-text">DOSSO, C., BENLAMINE, M. S., MORISSEAU, T., HEINTZ, C., VAYRE, J.-S. (2025), « Effect of Competitive and Cooperative Learning Contexts in Controversial Information Search: Preliminary Results », in K. T. Win et al. (dir.), Persuasive Technology - PERSUASIVE 2025, Lecture Notes in Computer Science, vol. 15711, Springer, pp. 89-104. DOI : 10.1007/978-3-031-94959-3_7.</div><a class="resource-link record-access" href="https://doi.org/10.1007/978-3-031-94959-3_7" target="_blank" rel="noopener">Related article ↗</a></div>
+<div class="record"><div class="record-text">DOSSO, C., BENLAMINE, M. S., MORISSEAU, T., HEINTZ, C., VAYRE, J.-S. (2025), « Effect of Competitive and Cooperative Learning Contexts in Controversial Information Search: Preliminary Results », in K. T. Win et al. (dir.), Persuasive Technology - PERSUASIVE 2025, Lecture Notes in Computer Science, vol. 15711, Springer, pp. 89-104. DOI : 10.1007/978-3-031-94959-3_7.</div><a class="resource-link record-access" href="https://doi.org/10.1007/978-3-031-94959-3_7" target="_blank" rel="noopener">Published paper ↗</a></div>
 
 <div class="record"><div class="record-text">DOSSO, C., VAYRE, J.-S., BENLAMINE, M.S., MORISSEAU, T. (2024), « Controversial topic in search as learning: effects of cooperation-competition on search strategy and achievement goal », communication lors du colloque « ISICS 2024 », à l’Ecole Supérieur de Technologie des Émirats Arabes Unis, les 6 et 7 novembre.</div><a class="resource-link record-access" href="https://ds4h.univ-cotedazur.eu/research-and-labs/funded-projects-and-calls/project-movici" target="_blank" rel="noopener">Project record ↗</a></div>
 

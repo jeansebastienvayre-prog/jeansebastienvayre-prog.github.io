@@ -1,6 +1,6 @@
----
-title: "Teaching Record"
+---title: "Teaching Record"
 subtitle: "Administrative responsibilities, course leadership and complete teaching load"
+description: "Complete teaching record of Jean-Sébastien Vayre at Université Côte d’Azur and previous institutions."
 ---
 
 <div class="note-original">Official French course titles and course codes are retained to preserve the institutional record. Degree levels and teaching hours are reproduced from the October 2026 CV.</div>
@@ -35,7 +35,6 @@ subtitle: "Administrative responsibilities, course leadership and complete teach
 
 ### 2025/2026 
 
-- HLESQN6 – Méthodologie quantitative 2 (Licence 3 : 24 h de TD au département de sociologie de l’Université Côte d’Azur).
 - HLESQN6 – Méthodologie quantitative 2 (Licence 3 : 24 h de TD au département de sociologie de l’Université Côte d’Azur).
 - IMESSP3 – Sociologie des plateformes numériques (Master 2 : 15 h de CM au département de sociologie de l’Université Côte d’Azur).
 

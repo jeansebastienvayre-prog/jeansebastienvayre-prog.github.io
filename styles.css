@@ -363,3 +363,5 @@ a.movici-citation-hover:hover {
   .record-links { justify-self: start; justify-content: flex-start; max-width: 100%; }
   .quick-grid { grid-template-columns: 1fr; }
 }
+
+.record-no-link { grid-template-columns: 1fr; }
