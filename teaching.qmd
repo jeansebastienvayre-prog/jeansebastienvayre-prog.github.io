@@ -39,6 +39,19 @@ subtitle: "Administrative responsibilities, course leadership and complete teach
 - HLESQN6 – Méthodologie quantitative 2 (Licence 3 : 24 h de TD au département de sociologie de l’Université Côte d’Azur).
 - IMESSP3 – Sociologie des plateformes numériques (Master 2 : 15 h de CM au département de sociologie de l’Université Côte d’Azur).
 
+### 2024/2025
+
+- HPESTS4 – Théorie sociologique 2 (Licence 2 : 20 heures de CM au département de sociologie de l’Université Côte d’Azur).
+- HPESSM4 – Sociologie des marchés (Licence 2 : 20 heures de CM à l’Institut Supérieur d’Économie et de Management).
+- HLESPI5 – Préparation à l’insertion professionnelle (Licence 3 : 12h de TD au département de sociologie de l’Université Côte d’Azur).
+- HLESMT6 – Monde du travail 2 (Licence 3 : 12h de TD au département de sociologie de l’Université Côte d’Azur).
+- HLESTS6 – Théorie sociologique 4 (Licence 3 : 12h de CM au département de sociologie de l’Université Côte d’Azur).
+- HMUSC12 – Méthodologie approfondie 1 (Master 1 : 21h de TD au département de sociologie de l’Université Côte d’Azur).
+- IMESMA2 – Méthodologie d’analyse des données en ligne (Master 1 : 9h de CM + 3 h de TD au département de sociologie de l’Université Côte d’Azur).
+- IMESSP3 – Sociologie des plateformes numériques (Master 2 : 15h de CM au département de sociologie de l’Université Côte d’Azur).
+- HLESQN5 – UE Méthodologie quantitative 1 (Licence 3 : 24h de TD au département de sociologie de l’Université Côte d’Azur).
+- HLESQN6 – UE Méthodologie quantitative 2 (Licence 3 : 24h de TD au département de sociologie de l’Université Côte d’Azur).
+
 ### 2023/2024 
 
 - HPESTS4 – Théorie sociologique 2 (Licence 2 : 20 heures de CM au département de sociologie de l’Université Côte d’Azur).
